@@ -65,7 +65,8 @@ Le dashboard comprend :
 
 ## Contenu du projet
 
-- `risk_management_db.sql` ➔ Script SQL pour créer la base de données,
+- `Counterparty_Risk.sql` ➔ Script SQL permettant de recréer la base de données et les tables utilisées dans ce projet.  
+*(Le script est utile uniquement pour les utilisateurs souhaitant recréer la base sous MySQL. Les fichiers CSV sont également fournis pour une utilisation directe dans Excel.)*,
 - `counterparties.csv` ➔ Données des contreparties,
 - `exposures.csv` ➔ Données des expositions,
 - `Counterparty_Analysis.xlsx` ➔ Fichier Excel complet avec dashboard et visualisations.
