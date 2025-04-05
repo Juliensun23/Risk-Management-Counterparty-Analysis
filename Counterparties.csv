@@ -1,0 +1,49 @@
+id_counterparty,name,sector,credit_rating,country
+1,HSBC,Banking,AA,UK
+2,"BNP Paribas",Banking,AA,France
+3,Santander,Banking,A,Spain
+4,"Deutsche Bank",Banking,BBB,Germany
+5,TotalEnergies,Energy,A,France
+6,ExxonMobil,Energy,AA,USA
+7,Apple,Technology,AA,USA
+8,Microsoft,Technology,AAA,USA
+9,Siemens,Industry,A,Germany
+10,BASF,Industry,A,Germany
+11,Alibaba,Technology,A,China
+12,Tencent,Technology,A,China
+13,Volkswagen,Industry,BBB,Germany
+14,Renault,Industry,BB,France
+15,Airbus,Industry,A,Netherlands
+16,Pfizer,Healthcare,AA,USA
+17,Novartis,Healthcare,AA,Switzerland
+18,Sanofi,Healthcare,A,France
+19,Nestlé,Food,AA,Switzerland
+20,Coca-Cola,Food,A,USA
+21,PepsiCo,Food,A,USA
+22,LVMH,Luxury,AA,France
+23,Hermès,Luxury,AA,France
+24,Zara,Retail,BBB,Spain
+25,Carrefour,Retail,BBB,France
+26,Tesco,Retail,BBB,UK
+27,Facebook,Technology,AA,USA
+28,Amazon,Technology,AA,USA
+29,Netflix,Technology,BB,USA
+30,Tesla,Technology,BB,USA
+31,BP,Energy,A,UK
+32,Shell,Energy,AA,Netherlands
+33,Engie,Energy,A,France
+34,EDF,Energy,BBB,France
+35,UBS,Banking,A,Switzerland
+36,"Credit Suisse",Banking,BB,Switzerland
+37,"Morgan Stanley",Banking,A,USA
+38,"Goldman Sachs",Banking,A,USA
+39,"JP Morgan",Banking,AA,USA
+40,Barclays,Banking,A,UK
+41,"Societe Generale",Banking,BBB,France
+42,"Crédit Agricole",Banking,A,France
+43,Orange,Telecom,BBB,France
+44,AT&T,Telecom,BBB,USA
+45,Verizon,Telecom,A,USA
+46,"Air France",Transport,BB,France
+47,"Delta Airlines",Transport,BB,USA
+48,BMW,Industry,A,Germany
