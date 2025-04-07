@@ -35,9 +35,9 @@ Deux tables ont été créées :
 | Nom de la colonne | Description |
 |:------------------|:------------|
 | `id_counterparty` | Lien vers la contrepartie correspondante |
-| `amount_due` | Montant de l'exposition (en €) |
-| `amount_default` | Montant en défaut (en €) |
-| `limit_authorized` | Limite de crédit autorisée (en €) |
+| `amount_due` | Montant de l'exposition |
+| `amount_default` | Montant en défaut |
+| `limit_authorized` | Limite de crédit autorisée |
 | `date_exposure` | Date de l'exposition |
 | `type_of_exposure` | Type d'exposition (Prêt, Dérivé, etc.) |
 
